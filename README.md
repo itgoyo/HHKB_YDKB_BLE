@@ -1,6 +1,5 @@
 # HHKB_YDKB_BLE
 
-<<<<<<< HEAD
 YDKB键位修改地址：https://ydkb.github.io
 YDKB资料：https://help.ydkb.io/
 
@@ -46,11 +45,8 @@ Control->Esc
 
 ### 充电过程红灯强光亮
 
+### Bug连击的情况
+http://help.ydkb.io/doku.php?id=ble-series:ble-firmware
 
-=======
-配置链接：
-https://ydkb.github.io/?hhkb_ble-0#H4sIAAAAAAAAA+2TXY4bMQyDL8QH618+yyD3v0YpJ4tNgbbbp2KALjxQJghJS5+d67rEEpIpfWqduuAIJAqNDX4VgSjEIA6JBy6hiVqaNnRBBapQgzo0oAktaEM3bMGEDlOYwRwW4JZWsIZtON10ucINzpeAJ7xo8YZvxEIIQhGGYF+BSEQhGrGRCylIRRod6Ug2nshCNnKjFkpQijKUo5guTnfxadSmqRda0Io2tKMDnWjO3uiNvbAFW7EN27Fn+p3YhU04Q4d4FvlwOlkksGogsMapeWqd2qcOsbKBOlxkwA7ZQSvBHHK1+STc4TNoGTVBEzMhjJjm40H/xa2f6xxiihOlvI4xXUlifuVURMHxDoSZ+sz4ZENTfESMPA+ij+D04Mke3IP4EzjecT+1x/Ykr7VmvAHPEajQ2Sxf5JUKeV9H+8c1zZ2rN5O9ruzv19d5b4rT468kB3D9dc7/oPjpzt28139HRG/RyV0UQ2TdopO7KL7/Nd9EviTy+AEhQroHkAkAAA==
+固件最好升级到最新版本0.8.1可以减少出现连续输出的情况
 
-偶尔会出现连续点击的bug
-有文章说左右shift+p 关闭节电模式就好了，我验证一下看看是不是有效
->>>>>>> c09309164a68fbb489bd2f524fe009ae32a23ebc
