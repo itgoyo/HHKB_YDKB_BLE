@@ -24,7 +24,7 @@ Num Lock, Caps Lock, Scroll Lock 这些指示灯，在蓝牙模式下并未同�
 ![](https://i.imgur.com/3HMW3sG.png)
 
 个人使用配置链接：
-https://ydkb.github.io/?hhkb_ble-0#H4sIAAAAAAAAA+2TXY4bMQyDL8QH618+yyD3v0YpJ4tNgbbbp2KALjxQJghJS5+d67rEEpIpfWqduuAIJAqNDX4VgSjEIA6JBy6hiVqaNnRBBapQgzo0oAktaEM3bMGEDlOYwRwW4JZWsIZtON10ucINzpeAJ7xo8YZvxEIIQhGGYF+BSEQhGrGRCylIRRod6Ug2nshCNnKjFkpQijKUo5guTnfxadSmqRda0Io2tKMDnWjO3uiNvbAFW7EN27Fn+p3YhU04Q4d4FvlwOlkksGogsMapeWqd2qcOsbKBOlxkwA7ZQSvBHHK1+STc4TNoGTVBEzMhjJjm40H/xa2f6xxiihOlvI4xXUlifuVURMHxDoSZ+sz4ZENTfESMPA+ij+D04Mke3IP4EzjecT+1x/Ykr7VmvAHPEajQ2Sxf5JUKeV9H+8c1zZ2rN5O9ruzv19d5b4rT468kB3D9dc7/oPjpzt28139HRG/RyV0UQ2TdopO7KL7/Nd9EviTy+AEhQroHkAkAAA==
+https://ydkb.github.io/?hhkb_ble-0#H4sIAAAAAAAAA+2TXY7bMAyELzQP4j91FiP3v0aHShabAm23T4WBLmQwMTAzIj/J13WJJSRT+tQ6dcERSBQaG3wVgSjEIA6JBy6hiVqaNnRBBapQgzo0oAktaEM3bMGEDlOYwRwW4JZWsIZtON10ucINzj8BT3jR4g3fiIUQhCIMwb4CkYhCNGIjF1KQijQ60pFsPJGFbORGLZSgFGUoRzFdnO7i06hNUy+0oBVtaEcHOtGcvdEbe2ELtmIbtmPP9DuxC5twhg7xLPLhdLJIYNVAYI1T89Q6tU8dYmUDdbjIgB2yg1aCOeRq80u4w2fQMmqCJmZCGDHNx4P+i1s/1znEFCfK1DJ5HWW6ksYoOBlxcMQDYiY/cz750BgfMSPPg+kjPD14ugf5YP6EjnfkT+2xPelrrRlx4HMMKnQ2yxd9pULe19H+cU1z5/rNZK9r+/v1dd6b4vT4K8mBXH+d8z8ofrp3N+/13xHRW3RyF8UQWbfo5C6K76/mm8iXRB4/AFqilYCUCQAA
 
 ### Layout1层
 Esc->Ctrl
