@@ -26,12 +26,12 @@ Num Lock, Caps Lock, Scroll Lock 这些指示灯，在蓝牙模式下并未同�
 个人使用配置链接：
 https://ydkb.github.io/?hhkb_ble-0#H4sIAAAAAAAAA+2TXY7bMAyELzQP4j91FiP3v0aHShabAm23T4WBLmQwMTAzIj/J13WJJSRT+tQ6dcERSBQaG3wVgSjEIA6JBy6hiVqaNnRBBapQgzo0oAktaEM3bMGEDlOYwRwW4JZWsIZtON10ucINzj8BT3jR4g3fiIUQhCIMwb4CkYhCNGIjF1KQijQ60pFsPJGFbORGLZSgFGUoRzFdnO7i06hNUy+0oBVtaEcHOtGcvdEbe2ELtmIbtmPP9DuxC5twhg7xLPLhdLJIYNVAYI1T89Q6tU8dYmUDdbjIgB2yg1aCOeRq80u4w2fQMmqCJmZCGDHNx4P+i1s/1znEFCfK1DJ5HWW6ksYoOBlxcMQDYiY/cz750BgfMSPPg+kjPD14ugf5YP6EjnfkT+2xPelrrRlx4HMMKnQ2yxd9pULe19H+cU1z5/rNZK9r+/v1dd6b4vT4K8mBXH+d8z8ofrp3N+/13xHRW3RyF8UQWbfo5C6K76/mm8iXRB4/AFqilYCUCQAA
 
-### Layout1层
+### Layout0层
 Esc->Ctrl
 Control->Esc
 右下角的两个按钮修改成上下翻页
 
-### Layout2层
+### Layout1层
 主要是方向键改成了组合键的方式也就是现在的Ctrl（原先Esc）+HJKL
 
 ### 打开蓝牙功能
