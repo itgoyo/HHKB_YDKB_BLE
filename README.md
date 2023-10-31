@@ -64,3 +64,8 @@ Fn+Z 即可进入Lock Mode
 
 ### MacOS蓝牙搜索不到HHKB
 按键盘左右shift+r即可
+
+### Karabiner注意事项
+<img width="1086" alt="image" src="https://github.com/itgoyo/HHKB_YDKB_BLE/assets/23348551/c7b30c01-35ec-4279-affe-58c8cacdd4ad">
+
+这个`modify event`一定要打开不然组合事件不会生效。
