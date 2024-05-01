@@ -63,7 +63,7 @@ Fn+Z 即可进入Lock Mode
 补充说明：HHKB BLE，BLE660C，BLE980C 这三个静电容的双模改装主控，从 Lock Mode 唤醒键盘，需要长按 F 和 J，3 到 6 秒。
 
 ### MacOS蓝牙搜索不到HHKB
-按键盘左右shift+r即可
+按键盘左右shift+r即可(时间可以久一点10秒钟以上最好)
 
 ### Karabiner注意事项
 <img width="1086" alt="image" src="https://github.com/itgoyo/HHKB_YDKB_BLE/assets/23348551/c7b30c01-35ec-4279-affe-58c8cacdd4ad">
